@@ -24,3 +24,6 @@ http://localhost:5000/api/utils/password
 1. Since this is a demo to understand how actions are working no need to configure the authentication and password sharing format. Hence keep the password sharing format as `Plain Text`
 2. No need to define any rules.
 3. Save the action and try the flow by resetting a user password.
+
+#### Output
+Users can not set the password similar to userName/firtName and lastName. THat logic was written in this external service.
