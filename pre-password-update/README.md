@@ -1,4 +1,4 @@
-# wso2is-actions-demo
+# wso2is-actions-demo/pre-password-update
 
 #### Steps to configure
 
@@ -6,7 +6,7 @@ clone the `wso2is-actions-demo` to your local repository.
 ```
 git clone https://github.com/DInuwan97/wso2is-actions-demo.git
 ```
-Execute the following command from the root directory of `wso2is-actions-demo`
+Execute the following command from the direcoty path of `wso2is-actions-demo/pre-password-update`
 ```
 npm install
 ```
